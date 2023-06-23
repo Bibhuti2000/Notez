@@ -1,3 +1,6 @@
+# Project Preview
+[Screencast from 2023-06-23 12-09-42.webm](https://github.com/Bibhuti2000/notez/assets/75147496/b52e12d1-beb3-4c8c-ad11-b235bc454561)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
